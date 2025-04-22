@@ -18,7 +18,7 @@
   <h2 align="center">   👨‍💻  Technologies & Tools </h2>
   <br>
  
-  <p style="text-align: left;">
+  <p style="text-align: left;">  
      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" align="left" style="margin-right:5px" width="35" /></a>
      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" align="left" style="margin-right:5px"  width="35"/></a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" align="left" style="margin-right:5px" width="35"/> </a>
